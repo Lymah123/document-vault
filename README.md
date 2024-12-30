@@ -4,6 +4,8 @@ Personal Document Vault with encryption is a secure vault where users can upload
 
 ## FEATURES
 
+![Dashboard preview](frontend/public/screencapture-localhost-3000-dashboard-2024-12-30-15_13_33.png)
+
 - End-to-end encryption
 - Secure document upload and storage
 - User authentication and authorization
